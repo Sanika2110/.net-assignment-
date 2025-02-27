@@ -1,0 +1,4 @@
+C:\Users\dell\Desktop\.net\assign1q1\obj\Debug\net8.0\assign1q1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\Desktop\.net\assign1q1\obj\Debug\net8.0\assign1q1.AssemblyInfoInputs.cache
+C:\Users\dell\Desktop\.net\assign1q1\obj\Debug\net8.0\assign1q1.AssemblyInfo.cs
+C:\Users\dell\Desktop\.net\assign1q1\obj\Debug\net8.0\assign1q1.csproj.CoreCompileInputs.cache
