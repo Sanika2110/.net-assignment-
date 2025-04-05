@@ -1,0 +1,32 @@
+C:\Users\Yuvraj\source\repos\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Yuvraj\source\repos\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Yuvraj\source\repos\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Yuvraj\source\repos\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Yuvraj\source\repos\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Yuvraj\source\repos\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Yuvraj\source\repos\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Yuvraj\source\repos\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Yuvraj\source\repos\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Yuvraj\source\repos\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\bin\Debug\Calculator.exe.config
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\bin\Debug\Calculator.exe
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\bin\Debug\Calculator.pdb
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\obj\Debug\Calculator.Form1.resources
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\obj\Debug\Calculator.exe
+Z:\.net\DOTNETREPO-master\FormAppCal\Calculator\obj\Debug\Calculator.pdb
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\obj\Debug\Calculator.Form1.resources
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\obj\Debug\Calculator.exe
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\obj\Debug\Calculator.pdb
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\bin\Debug\Calculator.exe.config
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\bin\Debug\Calculator.exe
+Z:\.net\repos\Assignment4 (simplecalc)\Calculator\bin\Debug\Calculator.pdb

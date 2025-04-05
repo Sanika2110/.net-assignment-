@@ -1,0 +1,10 @@
+C:\Users\mcs23\source\repos\CRUD1\CRUD1\obj\Debug\net7.0\CRUD1.csproj.AssemblyReference.cache
+C:\Users\mcs23\source\repos\CRUD1\CRUD1\obj\Debug\net7.0\CRUD1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcs23\source\repos\CRUD1\CRUD1\obj\Debug\net7.0\CRUD1.AssemblyInfoInputs.cache
+C:\Users\mcs23\source\repos\CRUD1\CRUD1\obj\Debug\net7.0\CRUD1.AssemblyInfo.cs
+C:\Users\mcs23\source\repos\CRUD1\CRUD1\obj\Debug\net7.0\CRUD1.csproj.CoreCompileInputs.cache
+Z:\.net\repos\CRUD1\CRUD1\obj\Debug\net7.0\CRUD1.csproj.AssemblyReference.cache
+Z:\.net\repos\CRUD1\CRUD1\obj\Debug\net7.0\CRUD1.GeneratedMSBuildEditorConfig.editorconfig
+Z:\.net\repos\CRUD1\CRUD1\obj\Debug\net7.0\CRUD1.AssemblyInfoInputs.cache
+Z:\.net\repos\CRUD1\CRUD1\obj\Debug\net7.0\CRUD1.AssemblyInfo.cs
+Z:\.net\repos\CRUD1\CRUD1\obj\Debug\net7.0\CRUD1.csproj.CoreCompileInputs.cache

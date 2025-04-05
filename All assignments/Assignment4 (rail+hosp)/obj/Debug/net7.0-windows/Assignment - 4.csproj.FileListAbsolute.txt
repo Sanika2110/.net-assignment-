@@ -1,0 +1,38 @@
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.csproj.AssemblyReference.cache
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.csproj.GenerateResource.cache
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.AssemblyInfoInputs.cache
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.AssemblyInfo.cs
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.csproj.CoreCompileInputs.cache
+Z:\dotnet Assignments\Assignment - 4\bin\Debug\net7.0-windows\Assignment - 4.exe
+Z:\dotnet Assignments\Assignment - 4\bin\Debug\net7.0-windows\Assignment - 4.deps.json
+Z:\dotnet Assignments\Assignment - 4\bin\Debug\net7.0-windows\Assignment - 4.runtimeconfig.json
+Z:\dotnet Assignments\Assignment - 4\bin\Debug\net7.0-windows\Assignment - 4.dll
+Z:\dotnet Assignments\Assignment - 4\bin\Debug\net7.0-windows\Assignment - 4.pdb
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.dll
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\refint\Assignment - 4.dll
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.pdb
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.genruntimeconfig.cache
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\ref\Assignment - 4.dll
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment___4.calculator.resources
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment___4.buyTShirt.resources
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment___4.RailwayReservation.resources
+Z:\dotnet Assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment___4.hospitalOPD.resources
+Z:\.net\All assignments\Assignment - 4\bin\Debug\net7.0-windows\Assignment - 4.exe
+Z:\.net\All assignments\Assignment - 4\bin\Debug\net7.0-windows\Assignment - 4.deps.json
+Z:\.net\All assignments\Assignment - 4\bin\Debug\net7.0-windows\Assignment - 4.runtimeconfig.json
+Z:\.net\All assignments\Assignment - 4\bin\Debug\net7.0-windows\Assignment - 4.dll
+Z:\.net\All assignments\Assignment - 4\bin\Debug\net7.0-windows\Assignment - 4.pdb
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.csproj.AssemblyReference.cache
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment___4.hospitalOPD.resources
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment___4.RailwayReservation.resources
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.csproj.GenerateResource.cache
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.GeneratedMSBuildEditorConfig.editorconfig
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.AssemblyInfoInputs.cache
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.AssemblyInfo.cs
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.csproj.CoreCompileInputs.cache
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.dll
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\refint\Assignment - 4.dll
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.pdb
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\Assignment - 4.genruntimeconfig.cache
+Z:\.net\All assignments\Assignment - 4\obj\Debug\net7.0-windows\ref\Assignment - 4.dll

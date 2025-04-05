@@ -1,0 +1,15 @@
+Z:\.net\repos\linqast\linqast\bin\Debug\net6.0\linqast.exe
+Z:\.net\repos\linqast\linqast\bin\Debug\net6.0\linqast.deps.json
+Z:\.net\repos\linqast\linqast\bin\Debug\net6.0\linqast.runtimeconfig.json
+Z:\.net\repos\linqast\linqast\bin\Debug\net6.0\linqast.dll
+Z:\.net\repos\linqast\linqast\bin\Debug\net6.0\linqast.pdb
+Z:\.net\repos\linqast\linqast\obj\Debug\net6.0\linqast.csproj.AssemblyReference.cache
+Z:\.net\repos\linqast\linqast\obj\Debug\net6.0\linqast.GeneratedMSBuildEditorConfig.editorconfig
+Z:\.net\repos\linqast\linqast\obj\Debug\net6.0\linqast.AssemblyInfoInputs.cache
+Z:\.net\repos\linqast\linqast\obj\Debug\net6.0\linqast.AssemblyInfo.cs
+Z:\.net\repos\linqast\linqast\obj\Debug\net6.0\linqast.csproj.CoreCompileInputs.cache
+Z:\.net\repos\linqast\linqast\obj\Debug\net6.0\linqast.dll
+Z:\.net\repos\linqast\linqast\obj\Debug\net6.0\refint\linqast.dll
+Z:\.net\repos\linqast\linqast\obj\Debug\net6.0\linqast.pdb
+Z:\.net\repos\linqast\linqast\obj\Debug\net6.0\linqast.genruntimeconfig.cache
+Z:\.net\repos\linqast\linqast\obj\Debug\net6.0\ref\linqast.dll
