@@ -1,0 +1,7 @@
+C:\Users\dell\Desktop\.net\assign1q3\bin\Debug\assign1q3.exe.config
+C:\Users\dell\Desktop\.net\assign1q3\bin\Debug\assign1q3.exe
+C:\Users\dell\Desktop\.net\assign1q3\bin\Debug\assign1q3.pdb
+C:\Users\dell\Desktop\.net\assign1q3\obj\Debug\assign1q3.csproj.AssemblyReference.cache
+C:\Users\dell\Desktop\.net\assign1q3\obj\Debug\assign1q3.csproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\.net\assign1q3\obj\Debug\assign1q3.exe
+C:\Users\dell\Desktop\.net\assign1q3\obj\Debug\assign1q3.pdb
